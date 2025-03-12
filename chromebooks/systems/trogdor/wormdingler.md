@@ -49,4 +49,4 @@ and rebooting the device should fix the issue
 # Other
 
 - [issues](https://github.com/hexdump0815/imagebuilder/issues/182)
-- [system notes](../../../../systems/chromebook_trogdor/readme.md)
+- [system notes](https://github.com/hexdump0815/imagebuilder/blob/main/systems/chromebook_trogdor/readme.md)

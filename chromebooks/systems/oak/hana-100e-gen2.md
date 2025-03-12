@@ -34,4 +34,4 @@ Other
 # Other
 
 - [issues](https://github.com/hexdump0815/imagebuilder/issues/271)
-- [system notes](../../../../systems/chromebook_oak/readme.md)
+- [system notes](https://github.com/hexdump0815/imagebuilder/blob/main/systems/chromebook_oak/readme.md)

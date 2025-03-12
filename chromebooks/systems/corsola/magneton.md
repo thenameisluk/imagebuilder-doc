@@ -47,4 +47,4 @@ hard restart required
 # Other
 
 - [issues](https://github.com/hexdump0815/imagebuilder/issues/228)
-- [system notes](../../../../systems/chromebook_corsola/readme.md)
+- [system notes](https://github.com/hexdump0815/imagebuilder/blob/main/systems/chromebook_corsola/readme.md)

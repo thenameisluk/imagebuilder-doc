@@ -56,4 +56,4 @@ _Fun fact. tablet based trogdor devices are part of sepret sub-group called ["st
 
 - [issues](https://github.com/hexdump0815/imagebuilder/issues/68)
 - [audio](https://github.com/hexdump0815/imagebuilder/discussions/240)
-- [system notes](../../../../systems/chromebook_trogdor/readme.md)
+- [system notes](https://github.com/hexdump0815/imagebuilder/blob/main/systems/chromebook_trogdor/readme.md)

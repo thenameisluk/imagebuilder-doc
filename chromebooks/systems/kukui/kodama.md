@@ -67,4 +67,4 @@ in ```/etc/udev/rules.d/99-wormdingler-stylus.rules```
 # Other
 
 - [issues](https://github.com/hexdump0815/imagebuilder/issues/202)
-- [system notes](../../../../systems/chromebook_kukui/readme.md)
+- [system notes](https://github.com/hexdump0815/imagebuilder/blob/main/systems/chromebook_kukui/readme.md)

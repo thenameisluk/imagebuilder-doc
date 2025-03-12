@@ -40,4 +40,4 @@ none yet
 # Other
 
 - [issues](https://github.com/hexdump0815/imagebuilder/issues/47)
-- [system notes](../../../../systems/chromebook_trogdor/readme.md)
+- [system notes](https://github.com/hexdump0815/imagebuilder/blob/main/systems/chromebook_trogdor/readme.md)
